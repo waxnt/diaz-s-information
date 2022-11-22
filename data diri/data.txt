@@ -1,0 +1,11 @@
+Date/Time	2022-11-22 18:01:17 UTC
+IP Address	1213.238.172.148
+Country 
+Indonesia, Kalimantan Timur , Samarinda Sebrang , Sungai kledang
+Browser	MIUI Browser (13.18.0)
+Operating System	Android 11
+Device	Realme C33
+User Agent	Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi 10A Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.18.0-gn
+Referring URL	no referrer
+Host Name	213.238.172.148
+ISP	PT INDONESIA COMNETS PLUS

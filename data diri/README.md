@@ -1,0 +1,3 @@
+# diaz adhwa fauzi
+
+![image](https://discord.com/channels/1043699177105924146/1043699177105924149/1044672901439311893)
